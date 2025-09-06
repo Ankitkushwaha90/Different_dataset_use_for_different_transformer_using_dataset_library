@@ -1,0 +1,49 @@
+{"prompt": "what is the command for ping {host}", "completion": "PING"}
+{"prompt": "how to what processes are running", "completion": "TASKLIST"}
+{"prompt": "what is the command for list files in {dir}", "completion": "DIR"}
+{"prompt": "what is the command for what are my system details", "completion": "SYSTEMINFO"}
+{"prompt": "how to ping {host}", "completion": "PING"}
+{"prompt": "how to show windows version", "completion": "VER"}
+{"prompt": "what is the command for show network statistics", "completion": "NETSTAT"}
+{"prompt": "command to display current time", "completion": "TIME"}
+{"prompt": "command to close notepad", "completion": "TASKKILL /F /IM notepad.exe"}
+{"prompt": "show running processes", "completion": "TASKLIST"}
+{"prompt": "display directory downloads", "completion": "DIR"}
+{"prompt": "what is the command for display current user information", "completion": "WHOAMI"}
+{"prompt": "command to display file contents", "completion": "TYPE file.txt"}
+{"prompt": "open notepad", "completion": "START notepad"}
+{"prompt": "how to list all running programs", "completion": "TASKLIST"}
+{"prompt": "show current date", "completion": "DATE"}
+{"prompt": "how to show me running applications", "completion": "TASKLIST"}
+{"prompt": "display listening ports", "completion": "NETSTAT"}
+{"prompt": "list files in current directory", "completion": "DIR"}
+{"prompt": "find text in a file", "completion": "FIND \"search\" file.txt"}
+{"prompt": "command to what ports are open", "completion": "NETSTAT"}
+{"prompt": "is 8.8.8.8 reachable", "completion": "PING"}
+{"prompt": "how to copy a file", "completion": "COPY file.txt newfile.txt"}
+{"prompt": "list files in desktop", "completion": "DIR"}
+{"prompt": "how to what is my username", "completion": "WHOAMI"}
+{"prompt": "close notepad", "completion": "TASKKILL /F /IM notepad.exe"}
+{"prompt": "command to which user is logged in", "completion": "WHOAMI"}
+{"prompt": "how to display current time", "completion": "TIME"}
+{"prompt": "how to display file contents", "completion": "TYPE file.txt"}
+{"prompt": "command to display current user information", "completion": "WHOAMI"}
+{"prompt": "command to show me files in {dir}", "completion": "DIR"}
+{"prompt": "check if localhost is online", "completion": "PING"}
+{"prompt": "how to show system information", "completion": "SYSTEMINFO"}
+{"prompt": "how to clear the screen", "completion": "CLS"}
+{"prompt": "what files are in {dir}", "completion": "DIR"}
+{"prompt": "what is the command for display active tasks", "completion": "TASKLIST"}
+{"prompt": "display current time", "completion": "TIME"}
+{"prompt": "how to list files in {dir}", "completion": "DIR"}
+{"prompt": "command to find text in a file", "completion": "FIND \"search\" file.txt"}
+{"prompt": "command to move a file", "completion": "MOVE file.txt C:\\temp\\"}
+{"prompt": "what is the command for display system configuration", "completion": "SYSTEMINFO"}
+{"prompt": "what is the command for show network configuration", "completion": "IPCONFIG"}
+{"prompt": "what is the command for show network connections", "completion": "NETSTAT"}
+{"prompt": "show contents of this folder", "completion": "DIR"}
+{"prompt": "what is the command for what is my username", "completion": "WHOAMI"}
+{"prompt": "command to open notepad", "completion": "START notepad"}
+{"prompt": "test connection to github.com", "completion": "PING"}
+{"prompt": "command to show current date", "completion": "DATE"}
+{"prompt": "what is the command for list all running programs", "completion": "TASKLIST"}

@@ -1,0 +1,192 @@
+{"prompt": "what is the command for display computer specs", "completion": "SYSTEMINFO"}
+{"prompt": "command to show windows version", "completion": "VER"}
+{"prompt": "what is the command for show me files in {dir}", "completion": "DIR"}
+{"prompt": "what files are in C:\\", "completion": "DIR"}
+{"prompt": "check if microsoft.com is online", "completion": "PING"}
+{"prompt": "show contents of downloads", "completion": "DIR"}
+{"prompt": "what is the command for ping {host}", "completion": "PING"}
+{"prompt": "show me files in C:\\", "completion": "DIR"}
+{"prompt": "ping microsoft.com", "completion": "PING"}
+{"prompt": "what is the command for display directory {dir}", "completion": "DIR"}
+{"prompt": "show hardware information", "completion": "SYSTEMINFO"}
+{"prompt": "how to show network configuration", "completion": "IPCONFIG"}
+{"prompt": "how to show network settings", "completion": "IPCONFIG"}
+{"prompt": "is microsoft.com reachable", "completion": "PING"}
+{"prompt": "command to who am i", "completion": "WHOAMI"}
+{"prompt": "what files are in downloads", "completion": "DIR"}
+{"prompt": "command to copy a file", "completion": "COPY file.txt newfile.txt"}
+{"prompt": "command to sort lines in a file", "completion": "SORT file.txt"}
+{"prompt": "what is the command for show me running applications", "completion": "TASKLIST"}
+{"prompt": "print hello world", "completion": "ECHO Hello World"}
+{"prompt": "what is the command for display ip address", "completion": "IPCONFIG"}
+{"prompt": "copy a file", "completion": "COPY file.txt newfile.txt"}
+{"prompt": "how to which user is logged in", "completion": "WHOAMI"}
+{"prompt": "command to show network settings", "completion": "IPCONFIG"}
+{"prompt": "how to show current user", "completion": "WHOAMI"}
+{"prompt": "list files in documents", "completion": "DIR"}
+{"prompt": "what files are in documents", "completion": "DIR"}
+{"prompt": "command to test connection to {host}", "completion": "PING"}
+{"prompt": "how to show system information", "completion": "SYSTEMINFO"}
+{"prompt": "command to display system configuration", "completion": "SYSTEMINFO"}
+{"prompt": "how to list all running programs", "completion": "TASKLIST"}
+{"prompt": "command to what files are in {dir}", "completion": "DIR"}
+{"prompt": "show contents of documents", "completion": "DIR"}
+{"prompt": "display directory {dir}", "completion": "DIR"}
+{"prompt": "what is the command for what are my system details", "completion": "SYSTEMINFO"}
+{"prompt": "test connection to {host}", "completion": "PING"}
+{"prompt": "how to find text in a file", "completion": "FIND \"search\" file.txt"}
+{"prompt": "delete a folder and all contents", "completion": "RMDIR /S /Q folder"}
+{"prompt": "command to create a new folder", "completion": "MKDIR new_folder"}
+{"prompt": "who am i", "completion": "WHOAMI"}
+{"prompt": "is {host} reachable", "completion": "PING"}
+{"prompt": "display computer specs", "completion": "SYSTEMINFO"}
+{"prompt": "what is the command for check if {host} is online", "completion": "PING"}
+{"prompt": "command to what processes are running", "completion": "TASKLIST"}
+{"prompt": "show network configuration", "completion": "IPCONFIG"}
+{"prompt": "test connection to localhost", "completion": "PING"}
+{"prompt": "how to is {host} reachable", "completion": "PING"}
+{"prompt": "what is the command for show contents of {dir}", "completion": "DIR"}
+{"prompt": "test connection to 8.8.8.8", "completion": "PING"}
+{"prompt": "show me files in documents", "completion": "DIR"}
+{"prompt": "display directory C:\\", "completion": "DIR"}
+{"prompt": "what files are in this folder", "completion": "DIR"}
+{"prompt": "command to list all running programs", "completion": "TASKLIST"}
+{"prompt": "how to what processes are running", "completion": "TASKLIST"}
+{"prompt": "ping {host}", "completion": "PING"}
+{"prompt": "show me files in {dir}", "completion": "DIR"}
+{"prompt": "how to sort lines in a file", "completion": "SORT file.txt"}
+{"prompt": "what processes are running", "completion": "TASKLIST"}
+{"prompt": "how to test network connectivity to {host}", "completion": "PING"}
+{"prompt": "check if 8.8.8.8 is online", "completion": "PING"}
+{"prompt": "what is the command for what ports are open", "completion": "NETSTAT"}
+{"prompt": "is localhost reachable", "completion": "PING"}
+{"prompt": "what files are in current directory", "completion": "DIR"}
+{"prompt": "command to show network connections", "completion": "NETSTAT"}
+{"prompt": "what is the command for display computer specs", "completion": "SYSTEMINFO"}
+{"prompt": "test network connectivity to 8.8.8.8", "completion": "PING"}
+{"prompt": "ping google.com", "completion": "PING"}
+{"prompt": "which user is logged in", "completion": "WHOAMI"}
+{"prompt": "display directory desktop", "completion": "DIR"}
+{"prompt": "check if google.com is online", "completion": "PING"}
+{"prompt": "show contents of desktop", "completion": "DIR"}
+{"prompt": "what is the command for display network information", "completion": "IPCONFIG"}
+{"prompt": "what is the command for display ip address", "completion": "IPCONFIG"}
+{"prompt": "command to show help", "completion": "HELP"}
+{"prompt": "test connection to microsoft.com", "completion": "PING"}
+{"prompt": "show me files in current directory", "completion": "DIR"}
+{"prompt": "what is the command for what ports are open", "completion": "NETSTAT"}
+{"prompt": "how to show network statistics", "completion": "NETSTAT"}
+{"prompt": "show network statistics", "completion": "NETSTAT"}
+{"prompt": "command to clear the screen", "completion": "CLS"}
+{"prompt": "how to show hardware information", "completion": "SYSTEMINFO"}
+{"prompt": "ping github.com", "completion": "PING"}
+{"prompt": "show me running applications", "completion": "TASKLIST"}
+{"prompt": "display active connections", "completion": "NETSTAT"}
+{"prompt": "what files are in desktop", "completion": "DIR"}
+{"prompt": "show contents of {dir}", "completion": "DIR"}
+{"prompt": "how to check if {host} is online", "completion": "PING"}
+{"prompt": "what are my system details", "completion": "SYSTEMINFO"}
+{"prompt": "command to what ports are open", "completion": "NETSTAT"}
+{"prompt": "show me files in desktop", "completion": "DIR"}
+{"prompt": "how to show network statistics", "completion": "NETSTAT"}
+{"prompt": "display file contents", "completion": "TYPE file.txt"}
+{"prompt": "test network connectivity to {host}", "completion": "PING"}
+{"prompt": "command to show current user", "completion": "WHOAMI"}
+{"prompt": "what is the command for show system information", "completion": "SYSTEMINFO"}
+{"prompt": "command to display active tasks", "completion": "TASKLIST"}
+{"prompt": "show windows version", "completion": "VER"}
+{"prompt": "display directory documents", "completion": "DIR"}
+{"prompt": "sort lines in a file", "completion": "SORT file.txt"}
+{"prompt": "command to show current user", "completion": "WHOAMI"}
+{"prompt": "how to show network configuration", "completion": "IPCONFIG"}
+{"prompt": "what is the command for test connection to {host}", "completion": "PING"}
+{"prompt": "command to show running processes", "completion": "TASKLIST"}
+{"prompt": "display system configuration", "completion": "SYSTEMINFO"}
+{"prompt": "show me files in this folder", "completion": "DIR"}
+{"prompt": "command to list files in {dir}", "completion": "DIR"}
+{"prompt": "test network connectivity to github.com", "completion": "PING"}
+{"prompt": "show contents of current directory", "completion": "DIR"}
+{"prompt": "what is the command for what is my username", "completion": "WHOAMI"}
+{"prompt": "list files in {dir}", "completion": "DIR"}
+{"prompt": "create a new folder", "completion": "MKDIR new_folder"}
+{"prompt": "what is the command for who am i", "completion": "WHOAMI"}
+{"prompt": "command to ping {host}", "completion": "PING"}
+{"prompt": "test network connectivity to localhost", "completion": "PING"}
+{"prompt": "test network connectivity to google.com", "completion": "PING"}
+{"prompt": "command to display listening ports", "completion": "NETSTAT"}
+{"prompt": "what is the command for show current user", "completion": "WHOAMI"}
+{"prompt": "display active tasks", "completion": "TASKLIST"}
+{"prompt": "command to show network statistics", "completion": "NETSTAT"}
+{"prompt": "command to delete a folder and all contents", "completion": "RMDIR /S /Q folder"}
+{"prompt": "how to show running processes", "completion": "TASKLIST"}
+{"prompt": "what ports are open", "completion": "NETSTAT"}
+{"prompt": "show current user", "completion": "WHOAMI"}
+{"prompt": "is github.com reachable", "completion": "PING"}
+{"prompt": "what is the command for display listening ports", "completion": "NETSTAT"}
+{"prompt": "list files in downloads", "completion": "DIR"}
+{"prompt": "how to delete a folder and all contents", "completion": "RMDIR /S /Q folder"}
+{"prompt": "how to what ports are open", "completion": "NETSTAT"}
+{"prompt": "command to show hardware information", "completion": "SYSTEMINFO"}
+{"prompt": "how to show current date", "completion": "DATE"}
+{"prompt": "what is the command for display current user information", "completion": "WHOAMI"}
+{"prompt": "what is the command for show system information", "completion": "SYSTEMINFO"}
+{"prompt": "show help", "completion": "HELP"}
+{"prompt": "list all running programs", "completion": "TASKLIST"}
+{"prompt": "ping 8.8.8.8", "completion": "PING"}
+{"prompt": "command to display computer specs", "completion": "SYSTEMINFO"}
+{"prompt": "show system information", "completion": "SYSTEMINFO"}
+{"prompt": "how to print hello world", "completion": "ECHO Hello World"}
+{"prompt": "move a file", "completion": "MOVE file.txt C:\\temp\\"}
+{"prompt": "how to what is my ip", "completion": "IPCONFIG"}
+{"prompt": "show network connections", "completion": "NETSTAT"}
+{"prompt": "how to what are my system details", "completion": "SYSTEMINFO"}
+{"prompt": "display directory current directory", "completion": "DIR"}
+{"prompt": "how to show network settings", "completion": "IPCONFIG"}
+{"prompt": "show me files in downloads", "completion": "DIR"}
+{"prompt": "display ip address", "completion": "IPCONFIG"}
+{"prompt": "show contents of C:\\", "completion": "DIR"}
+{"prompt": "check if github.com is online", "completion": "PING"}
+{"prompt": "display current user information", "completion": "WHOAMI"}
+{"prompt": "command to display ip address", "completion": "IPCONFIG"}
+{"prompt": "what is the command for list files in {dir}", "completion": "DIR"}
+{"prompt": "is google.com reachable", "completion": "PING"}
+{"prompt": "how to display listening ports", "completion": "NETSTAT"}
+{"prompt": "how to display ip address", "completion": "IPCONFIG"}
+{"prompt": "ping localhost", "completion": "PING"}
+{"prompt": "what is my ip", "completion": "IPCONFIG"}
+{"prompt": "how to show me running applications", "completion": "TASKLIST"}
+{"prompt": "command to check if {host} is online", "completion": "PING"}
+{"prompt": "how to show contents of {dir}", "completion": "DIR"}
+{"prompt": "list files in C:\\", "completion": "DIR"}
+{"prompt": "list files in this folder", "completion": "DIR"}
+{"prompt": "test network connectivity to microsoft.com", "completion": "PING"}
+{"prompt": "command to print hello world", "completion": "ECHO Hello World"}
+{"prompt": "what is the command for test network connectivity to {host}", "completion": "PING"}
+{"prompt": "check if {host} is online", "completion": "PING"}
+{"prompt": "clear the screen", "completion": "CLS"}
+{"prompt": "how to close notepad", "completion": "TASKKILL /F /IM notepad.exe"}
+{"prompt": "command to what is my username", "completion": "WHOAMI"}
+{"prompt": "display directory this folder", "completion": "DIR"}
+{"prompt": "command to display active tasks", "completion": "TASKLIST"}
+{"prompt": "show network settings", "completion": "IPCONFIG"}
+{"prompt": "what is the command for show contents of {dir}", "completion": "DIR"}
+{"prompt": "test connection to google.com", "completion": "PING"}
+{"prompt": "how to create a new folder", "completion": "MKDIR new_folder"}
+{"prompt": "how to display directory {dir}", "completion": "DIR"}
+{"prompt": "command to show hardware information", "completion": "SYSTEMINFO"}
+{"prompt": "display network information", "completion": "IPCONFIG"}
+{"prompt": "what is the command for which user is logged in", "completion": "WHOAMI"}
+{"prompt": "command to show network statistics", "completion": "NETSTAT"}
+{"prompt": "how to show contents of {dir}", "completion": "DIR"}
+{"prompt": "what is the command for list all running programs", "completion": "TASKLIST"}
+{"prompt": "how to open notepad", "completion": "START notepad"}
+{"prompt": "what is the command for check if {host} is online", "completion": "PING"}
+{"prompt": "what is the command for which user is logged in", "completion": "WHOAMI"}
+{"prompt": "how to display directory {dir}", "completion": "DIR"}
+{"prompt": "what is the command for is {host} reachable", "completion": "PING"}
+{"prompt": "how to move a file", "completion": "MOVE file.txt C:\\temp\\"}
+{"prompt": "how to show help", "completion": "HELP"}
+{"prompt": "command to list all running programs", "completion": "TASKLIST"}
+{"prompt": "command to what are my system details", "completion": "SYSTEMINFO"}
+{"prompt": "command to what is my ip", "completion": "IPCONFIG"}
+{"prompt": "what is my username", "completion": "WHOAMI"}

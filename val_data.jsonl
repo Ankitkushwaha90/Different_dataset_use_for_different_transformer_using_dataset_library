@@ -1,0 +1,53 @@
+{"prompt": "Command to registry: read, set, export, delete keys and values", "completion": "REG"}
+{"prompt": "Command to manage a volume mount point", "completion": "MOUNTVOL"}
+{"prompt": "Command to conditionally perform a command\u00a0\u2022", "completion": "IF"}
+{"prompt": "Command to encrypt or decrypt files/folders, overwrite data.", "completion": "CIPHER"}
+{"prompt": "Command to repair or replace a  partition boot sector", "completion": "BOOTREC"}
+{"prompt": "Command to suspend processing of a batch file\u00a0\u2022", "completion": "PAUSE"}
+{"prompt": "Command to windows remote shell", "completion": "WINRS"}
+{"prompt": "Command to delete a folder and all subfolders", "completion": "DELTREE"}
+{"prompt": "Command to replace or update one file with another", "completion": "REPLACE"}
+{"prompt": "Command to display networking statistics (netbios over tcp/ip)", "completion": "NBTSTAT"}
+{"prompt": "Command to run preinstallation environment (winpe) commands", "completion": "WPEUTIL"}
+{"prompt": "Command to query termserver list all servers (ts/remote desktop)", "completion": "QAppSrv"}
+{"prompt": "Command to move a user from one domain to another", "completion": "MOVEUSER"}
+{"prompt": "Command to uncompress cab files", "completion": "EXTRACT"}
+{"prompt": "Command to sort input", "completion": "SORT"}
+{"prompt": "Command to change file timestamps", "completion": "TOUCH"}
+{"prompt": "Command to manage ras connections", "completion": "RASDIAL"}
+{"prompt": "Command to run one or more scripts in sequence", "completion": "ScriptRunner"}
+{"prompt": "Command to send a message", "completion": "MSG"}
+{"prompt": "Command to configure a system device com/lpt/con", "completion": "MODE"}
+{"prompt": "Command to search active directory (user group computer)", "completion": "DSQuery"}
+{"prompt": "Command to create or repair a system partition", "completion": "BCDBOOT"}
+{"prompt": "Command to change colors of the cmd window\u00a0\u2022", "completion": "COLOR"}
+{"prompt": "Command to display file version no. virustotal status & timestamp", "completion": "SIGCHECK"}
+{"prompt": "Command to end a running process", "completion": "TSKILL"}
+{"prompt": "Command to check free disk space", "completion": "FREEDISK"}
+{"prompt": "Command to display message on screen\u00a0\u2022", "completion": "ECHO"}
+{"prompt": "Command to return to a previous directory saved by pushd\u00a0\u2022", "completion": "POPD"}
+{"prompt": "Command to is the current user a member of a group", "completion": "IFMEMBER"}
+{"prompt": "Command to display the sid of a computer or a user", "completion": "PsGetSid"}
+{"prompt": "Command to change the active console code page", "completion": "CHCP"}
+{"prompt": "Command to end localisation of the environment in a batch file\u00a0\u2022", "completion": "ENDLOCAL"}
+{"prompt": "Command to display output, one screen at a time", "completion": "MORE"}
+{"prompt": "Command to manage performance monitor logs", "completion": "LOGMAN"}
+{"prompt": "Command to add, delete or list print drivers.", "completion": "PRNDRVR"}
+{"prompt": "Command to batch process multiple files", "completion": "FORFILES"}
+{"prompt": "Command to start a program, command or batch file\u00a0\u2022", "completion": "START"}
+{"prompt": "Command to manage certification authority (ca) files and services", "completion": "CERTUTIL"}
+{"prompt": "Command to device manager command line utility", "completion": "DevCon"}
+{"prompt": "Command to time zone utility", "completion": "TZUTIL"}
+{"prompt": "Command to display volume shadow copy backups + writers/providers", "completion": "VSSADMIN"}
+{"prompt": "Command to compress one or more files", "completion": "COMPRESS"}
+{"prompt": "Command to manage print queues, print a test page.", "completion": "PRNQCTL"}
+{"prompt": "Command to manage minifilter drivers", "completion": "FLTMC"}
+{"prompt": "Command to wait for or send a signal", "completion": "WAITFOR"}
+{"prompt": "Command to change directory - move to a specific folder\u00a0\u2022", "completion": "CD"}
+{"prompt": "Command to do nothing, successfully \u2022", "completion": "BREAK"}
+{"prompt": "Command to add, delete, or list printer connections.", "completion": "PRNMNGR"}
+{"prompt": "Command to loop command: against a set of files\u00a0\u2022", "completion": "FOR /F"}
+{"prompt": "Command to edit a disk label", "completion": "LABEL"}
+{"prompt": "Command to copy files and folders", "completion": "XCOPY"}
+{"prompt": "Command to automated cleanup of temp files, recycle bin", "completion": "CleanMgr"}
+{"prompt": "Command to features on demand user experience tool", "completion": "FONDUE"}

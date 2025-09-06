@@ -1,0 +1,981 @@
+name,description,source
+AccessChk,"Get the security descriptor (SDDL) for an object (file, directory, reg key).",cmd
+ADDUSERS,Add or list users to/from a CSV file,cmd
+ADmodcmd,Active Directory Bulk Modify,cmd
+ARP,Address Resolution Protocol,cmd
+ASSOC,Change file extension associations •,cmd
+ATTRIB,Change file attributes,cmd
+BCDBOOT,Create or repair a system partition,cmd
+BCDEDIT,Manage Boot Configuration Data,cmd
+BITSADMIN,Background Intelligent Transfer Service,cmd
+BOOTREC,Repair or replace a  partition boot sector,cmd
+BREAK,"Do nothing, successfully •",cmd
+BROWSTAT,"Get domain, browser and PDC info",cmd
+CACLS,Change file permissions,cmd
+CALL,Call one batch program from another •,cmd
+CERTREQ,Request certificate from a certification authority,cmd
+CERTUTIL,Manage certification authority (CA) files and services,cmd
+CD,Change Directory - move to a specific Folder •,cmd
+CHANGE,Change Terminal Server Session properties,cmd
+CHANGEPK,Upgrade device Edition/Product Key,cmd
+CHCP,Change the active console Code Page,cmd
+CHDIR,Change Directory - move to a specific Folder •,cmd
+CHKDSK,Check Disk - check and repair disk problems,cmd
+CHKNTFS,Check the NTFS file system,cmd
+CHOICE,Accept keyboard input to a batch file,cmd
+CIPHER,"Encrypt or Decrypt files/folders, overwrite data.",cmd
+CleanMgr,"Automated cleanup of Temp files, recycle bin",cmd
+CLIP,Copy STDIN to the Windows clipboard,cmd
+CLS,Clear the screen •,cmd
+CMD,Start a new CMD shell,cmd
+CMDKEY,Manage stored usernames/passwords,cmd
+COLOR,Change colors of the CMD window •,cmd
+COMP,Compare the contents of two files or sets of files,cmd
+COMPACT,Compress files or folders on an NTFS partition,cmd
+COMPRESS,Compress one or more files,cmd
+CON,Console input,cmd
+CONVERT,Convert a FAT drive to NTFS,cmd
+COPY,Copy one or more files to another location •,cmd
+Coreinfo,Show the mapping between logical & physical processors,cmd
+CSCcmd,Client-side caching (Offline Files),cmd
+CSVDE,Import or Export Active Directory data,cmd
+CURL,Transfer data from or to a server,cmd
+DATE,Display or set the date •,cmd
+DEFRAG,Defragment hard drive,cmd
+DEL,Delete one or more files •,cmd
+DELPROF,Delete user profiles,cmd
+DELTREE,Delete a folder and all subfolders,cmd
+DevCon,Device Manager Command Line Utility,cmd
+DIR,Display a list of files and folders •,cmd
+DIRUSE,Display  directory sizes/usage,cmd
+DISKPART,Disk Administration,cmd
+DISKSHADOW,Volume Shadow Copy Service,cmd
+DISKUSE,Show the space used in folders,cmd
+DISM,Deployment Image Servicing and Management,cmd
+DisplaySwitch,Specify which display to use and how to use it,cmd
+DNSCMD,Manage DNS servers,cmd
+DOSKEY,"Edit command line, recall commands, and create macros",cmd
+DriverQuery,Display installed device drivers,cmd
+DSACLs,Active Directory ACLs,cmd
+DSAdd,Add items to Active Directory (user group computer),cmd
+DSGet,View items in Active Directory (user group computer),cmd
+DSQuery,Search Active Directory (user group computer),cmd
+DSMod,Modify items in Active Directory (user group computer),cmd
+DSMove,Move an Active Directory Object,cmd
+DSRM,Remove items from Active Directory,cmd
+DSREGCMD,Directory Service Registration,cmd
+DU,Display  directory sizes/usage,cmd
+ECHO,Display message on screen •,cmd
+ENDLOCAL,End localisation of the environment in a batch file •,cmd
+ERASE,Delete one or more files •,cmd
+EVENTCREATE,Add a message to the Windows event log,cmd
+EXIT,Quit the current script/routine and set an errorlevel •,cmd
+EXPAND,Uncompress CAB files,cmd
+EXPLORER,Open Windows Explorer,cmd
+EXTRACT,Uncompress CAB files,cmd
+FC,Compare two files,cmd
+FIND,Search for a text string in a file,cmd
+FINDSTR,Search for strings in files,cmd
+FLTMC,Manage MiniFilter drivers,cmd
+FONDUE,Features on Demand User Experience Tool,cmd
+FOR /F,Loop command: against a set of files •,cmd
+FOR /F,Loop command: against the results of another command •,cmd
+FOR,"Loop command: all options Files, Directory, List •",cmd
+FORFILES,Batch process multiple files,cmd
+FORMAT,Format a disk,cmd
+FREEDISK,Check free disk space,cmd
+FSUTIL,File and Volume utilities,cmd
+FTP,File Transfer Protocol,cmd
+FTYPE,File extension file type associations •,cmd
+GETMAC,Display the Media Access Control (MAC) address,cmd
+GOTO,Direct a batch program to jump to a labelled line •,cmd
+GPRESULT,Display Resultant Set of Policy information,cmd
+GPUPDATE,Update Group Policy settings,cmd
+HELP,Online Help,cmd
+HOSTNAME,Display the host name of the computer,cmd
+iCACLS,Change file and folder permissions,cmd
+IEXPRESS,Create a self extracting ZIP file archive,cmd
+IF,Conditionally perform a command •,cmd
+IFMEMBER,Is the current user a member of a group,cmd
+IPCONFIG,Configure IP,cmd
+INUSE,Replace files that are in use by the OS,cmd
+KLIST,List cached Kerberos tickets,cmd
+LABEL,Edit a disk label,cmd
+LGPO,Local Group Policy Object utility,cmd
+LODCTR,Load PerfMon performance counters,cmd
+LOGMAN,Manage Performance Monitor logs,cmd
+LOGOFF,Log a user off,cmd
+LOGTIME,Log the date and time in a file,cmd
+MAKECAB,Create .CAB files,cmd
+MAPISEND,Send email from the command line,cmd
+Manage-BDE,BitLocker Drive Encryption,cmd
+MBR2GPT,Convert a disk partition from  Master Boot Record to a GPT,cmd
+MD,Create a new Directory •,cmd
+MKLINK,Create a symbolic link (linkd) •,cmd
+MODE,Configure a system device COM/LPT/CON,cmd
+MORE,"Display output, one screen at a time",cmd
+MOUNTVOL,Manage a volume mount point,cmd
+MOVE,Move files from one folder to another •,cmd
+MOVEUSER,Move a user from one domain to another,cmd
+MSG,Send a message,cmd
+MSIEXEC,Microsoft Windows Installer,cmd
+MSINFO32,System Information,cmd
+MSTSC,Terminal Server Connection/Remote Desktop Protocol(RDP),cmd
+NET,Manage network resources,cmd
+NETDOM,Domain Manager,cmd
+NETSH,"Configure Network Interfaces, Firewall & Remote access",cmd
+NBTSTAT,Display networking statistics (NetBIOS over TCP/IP),cmd
+NETSTAT,Display networking statistics (TCP/IP),cmd
+NLSINFO,Display locale information (reskit),cmd
+NLTEST,Network Location Test (AD),cmd
+NMBIND,Manage Hyper-V network bindings,cmd
+NOW,Display the current Date and Time,cmd
+NSLOOKUP,Name server lookup,cmd
+NTBACKUP,Windows Backup folders to tape,cmd
+NTDSUtil,Active Directory Domain Services management,cmd
+NTRIGHTS,Edit user account rights,cmd
+NVSPBIND,Modify network bindings,cmd
+OPENFILES,Query or display open files,cmd
+PATH,Display or set a search path for executable files •,cmd
+PATHPING,Trace route plus network latency and packet loss,cmd
+PAUSE,Suspend processing of a batch file •,cmd
+PERMS,Show permissions for a user,cmd
+PING,Test a network connection,cmd
+PKTMON,Monitor internal packet propagation and packet drop reports,cmd
+PNPUTIL,Plug and Play Utility,cmd
+POPD,Return to a previous directory saved by PUSHD •,cmd
+PORTQRY,Display the status of ports and services,cmd
+POWERCFG,Configure power settings,cmd
+PRINT,Print a text file,cmd
+PRINTBRM,Print queue Backup/Recovery,cmd
+PRNCNFG,Configure a printer,cmd
+PRNDRVR,"Add, delete or list print drivers.",cmd
+PRNJOBS,"Pause, resume, cancel, or list print jobs.",cmd
+PRNMNGR,"Add, delete, or list printer connections.",cmd
+PRNPORT,"Manage Printer Ports, change port configuration.",cmd
+PRNQCTL,"Manage Print Queues, print a test page.",cmd
+ProcDump,Monitor an application for CPU spikes,cmd
+PROMPT,Change the command prompt •,cmd
+PsExec,Execute process remotely,cmd
+PsFile,Show files opened remotely,cmd
+PsGetSid,Display the SID of a computer or a user,cmd
+PsInfo,List information about a system,cmd
+PsKill,Kill processes by name or process ID,cmd
+PsList,List detailed information about processes,cmd
+PsLoggedOn,Who's logged on (locally or via resource sharing),cmd
+PsLogList,Event log records,cmd
+PsPasswd,Change account password,cmd
+PsPing,Measure network performance,cmd
+PsService,View and control services,cmd
+PsShutdown,Shutdown or reboot a computer,cmd
+PsSuspend,Suspend processes,cmd
+PUSHD,Save and then change the current directory •,cmd
+QPROCESS,Query Process Display processes,cmd
+QWinsta,Query Session Display all sessions (TS/Remote Desktop),cmd
+QAppSrv,Query TermServer List all servers (TS/Remote Desktop),cmd
+QUSER,Query User Display user sessions (TS/Remote Desktop),cmd
+RASDIAL,Manage RAS connections,cmd
+RASPHONE,Manage RAS connections,cmd
+RD,Delete a Directory •,cmd
+RECOVER,Recover a damaged file from a defective disk,cmd
+REG,"Registry: Read, Set, Export, Delete keys and values",cmd
+REGEDIT,Import or export registry settings,cmd
+REGSVR32,Register or unregister a DLL,cmd
+REGINI,Change Registry Permissions,cmd
+REM,Record comments (remarks) in a batch file •,cmd
+REN,Rename a file or files •,cmd
+REPLACE,Replace or update one file with another,cmd
+Reset Session,Delete a Remote Desktop Session,cmd
+RMDIR,Delete a Directory •,cmd
+RMTSHARE,Share a folder or a printer,cmd
+ROBOCOPY,Robust File and Folder Copy,cmd
+ROUTE,Manipulate network routing tables,cmd
+RUN,Start | RUN commands,cmd
+RUNAS,Execute a program under a different user account,cmd
+RUNDLL32,Run a DLL command (add/remove print connections),cmd
+SC,Service Control,cmd
+SCHTASKS,Schedule a command to run at a specific time,cmd
+ScriptRunner,Run one or more scripts in sequence,cmd
+SET,"Display, set, or remove session environment variables •",cmd
+SETLOCAL,Control the visibility of environment variables •,cmd
+SetObjectSecurity,"Set  security  for  an object (file, directory, reg key etc).",cmd
+SetSPN,Edit Service Principal Names,cmd
+SETX,Set environment variables,cmd
+SFC,System File Checker,cmd
+SHARE,List or edit a file share or print share,cmd
+ShellRunAs,Run a command under a different user account,cmd
+SHIFT,Shift the position of batch file parameters •,cmd
+SHORTCUT,Create a windows shortcut (.LNK file),cmd
+SHUTDOWN,Shutdown the computer,cmd
+SIGCHECK,Display file version no. VirusTotal status & timestamp,cmd
+SLEEP,Wait for x seconds,cmd
+SLMGR,Software Licensing Management,cmd
+SORT,Sort input,cmd
+SSH,OpenSSH remote login client,cmd
+START,"Start a program, command or batch file •",cmd
+STRINGS,Search for ANSI and UNICODE strings in binary files,cmd
+SUBINACL,"Edit file and folder Permissions, Ownership and Domain",cmd
+SUBST,Associate a path with a drive letter,cmd
+SXSTRACE,Diagnose side-by-side problems,cmd
+SYSMON,Monitor and log system activity to the Windows event log,cmd
+SYSTEMINFO,List system configuration,cmd
+TAKEOWN,Take ownership of a file,cmd
+TAR,"Store, list or extract files in an archive",cmd
+TASKLIST,List running applications and services,cmd
+TASKKILL,End a running process,cmd
+TELNET,Communicate with another host using the TELNET protocol,cmd
+TIME,Display or set the system time •,cmd
+TIMEOUT,Delay processing of a batch file/command,cmd
+TITLE,Set the window title for a CMD.EXE session •,cmd
+TLIST,Task list with full path,cmd
+TOUCH,Change file timestamps,cmd
+TRACERT,Trace route to a remote host,cmd
+TREE,Graphical display of folder structure,cmd
+TSDISCON,Disconnect a Remote Desktop Session,cmd
+TSKILL,End a running process,cmd
+TYPE,Display the contents of a text file •,cmd
+TypePerf,Write Performance Monitor data to a log file,cmd
+TZUTIL,Time Zone Utility,cmd
+VBC,Visual Basic compiler,cmd
+VER,Display version information •,cmd
+VERIFY,Verify that files have been saved •,cmd
+VMConnect,Connect to a Hyper-V Virtual Machine,cmd
+VOL,Display a disk label •,cmd
+VSSADMIN,Display volume shadow copy backups + writers/providers,cmd
+W32TM,Time Service,cmd
+WAITFOR,Wait for or send a signal,cmd
+WBADMIN,Windows Backup Admin,cmd
+WECUTIL,Windows Event Collector Utility,cmd
+WEVTUTIL,"Clear event logs, enable/disable/query logs",cmd
+WHERE,Locate and display files in a directory tree,cmd
+WHOAMI,Output the current UserName and domain,cmd
+WHOIS,Lookup the registration record for a domain,cmd
+WINDIFF,Compare the contents of two files or sets of files,cmd
+WINGET,Windows Package Manager (coming May 2021),cmd
+WINMGMT,Manage the  WMI service/WMI repository,cmd
+WINRM,Windows Remote Management,cmd
+WINRS,Windows Remote Shell,cmd
+WMIC,WMI Commands,cmd
+WPEUTIL,Run Preinstallation Environment (WinPE) commands,cmd
+WPR,Windows Performance Recorder,cmd
+WT,Windows Terminal,cmd
+WUSA,Windows Update Standalone Installer,cmd
+WUAUCLT,Windows Update,cmd
+XCACLS,Change file and folder permissions,cmd
+XCOPY,Copy files and folders,cmd
+::,Comment / Remark •,cmd
+&,Start a new process in the background,linux
+alias,Create an alias •,linux
+apropos,Search Help manual pages (man -k),linux
+apt,Search for and install software packages (Debian/Ubuntu),linux
+apt-get,Search for and install software packages (Debian/Ubuntu),linux
+aptitude,Search for and install software packages (Debian/Ubuntu),linux
+aspell,Spell Checker,linux
+at,Schedule a command to run once at a particular time,linux
+awk,"Find and Replace text, database sort/validate/index",linux
+basename,Strip directory and suffix from filenames,linux
+base32,Base32 encode/decode data and print to standard output,linux
+base64,Base64 encode/decode data and print to standard output,linux
+bash,GNU Bourne-Again SHell,linux
+bc,Arbitrary precision calculator language,linux
+bg,Send to background,linux
+bind,Set or display readline key and function bindings •,linux
+break,Exit from a loop •,linux
+builtin,Run a shell builtin,linux
+bzip2,Compress or decompress named file(s),linux
+cal,Display a calendar,linux
+caller,Return the context of any active subroutine call •,linux
+case,Conditionally perform a command,linux
+cat,Concatenate and print (display) the content of files,linux
+cd,Change Directory,linux
+cfdisk,Partition table manipulator for Linux,linux
+chattr,Change file attributes on a Linux file system,linux
+chgrp,Change group ownership,linux
+chmod,Change access permissions,linux
+chown,Change file owner and group,linux
+chpasswd,Update passwords in batch mode,linux
+chroot,Run a command with a different root directory,linux
+chkconfig,System services (runlevel),linux
+cksum,Print CRC checksum and byte counts,linux
+cmp,Compare two files,linux
+comm,Compare two sorted files line by line,linux
+command,Run a command - ignoring shell functions •,linux
+continue,Resume the next iteration of a loop •,linux
+cp,Copy one or more files to another location,linux
+cpio,Copy files to and from archives,linux
+cron,Daemon to execute scheduled commands,linux
+crontab,Schedule a command to run at a later time,linux
+csplit,Split a file into context-determined pieces,linux
+curl,Transfer data  from or to a server,linux
+cut,Divide a file into several parts,linux
+date,Display or change the date & time,linux
+dc,Desk Calculator,linux
+dd,"Data Duplicator - convert and copy a file, write disk headers, boot records",linux
+ddrescue,Data recovery tool,linux
+declare,Declare variables and give them attributes •,linux
+df,Display free disk space,linux
+diff,Display the differences between two files,linux
+diff3,Show differences among three files,linux
+dig,DNS lookup,linux
+dir,Briefly list directory contents,linux
+dircolors,Colour setup for 'ls',linux
+dirname,Convert a full pathname to just a path,linux
+dirs,Display list of remembered directories,linux
+dos2unix,Windows/MAC to UNIX text file format converter,linux
+dmesg,Print kernel & driver messages,linux
+dpkg,Package manager  (Debian/Ubuntu).,linux
+du,Estimate file space usage,linux
+echo,Display message on screen •,linux
+egrep,Search file(s) for lines that match an extended expression,linux
+eject,Eject removable media,linux
+enable,Enable and disable builtin shell commands •,linux
+env,Environment variables,linux
+eval,Evaluate several commands/arguments,linux
+exec,Execute a command,linux
+exit,Exit the shell,linux
+expand,Convert tabs to spaces,linux
+export,Set an environment variable,linux
+expr,Evaluate expressions,linux
+false,"Do nothing, unsuccessfully",linux
+fdformat,Low-level format a floppy disk,linux
+fdisk,Partition table manipulator for Linux,linux
+fg,Send job to foreground,linux
+fgrep,Search file(s) for lines that match a fixed string,linux
+file,Determine file type,linux
+find,Search for files that meet a desired criteria,linux
+fmt,Reformat paragraph text,linux
+fold,Wrap text to fit a specified width,linux
+for,"Expand words, and execute commands",linux
+fsck,File system consistency check and repair,linux
+ftp,File Transfer Protocol,linux
+function,Define Function Macros,linux
+fuser,Identify/kill the process that is accessing a file,linux
+gawk,Find and Replace text within file(s),linux
+getopts,Parse positional parameters,linux
+getfacl,Get file access control lists,linux
+grep,Search file(s) for lines that match a given pattern,linux
+groupadd,Add a user security group,linux
+groupdel,Delete a group,linux
+groupmod,Modify a group,linux
+groups,Print group names a user is in,linux
+gzip,Compress or decompress named file(s),linux
+hash,Remember the full pathname of a name argument,linux
+head,Output the first part of file(s),linux
+history,Command History,linux
+hostname,Print or set system name,linux
+htop,Interactive process viewer,linux
+iconv,Convert the character set of a file,linux
+id,Print user and group id's,linux
+if,Conditionally perform a command,linux
+ifconfig,Configure a network interface,linux
+ifdown,Stop a network interface,linux
+ifup,Start a network interface up,linux
+import,Capture an X server screen and save the image to file,linux
+install,Copy files and set attributes,linux
+iostat,Report CPU and i/o statistics,linux
+ip,"Routing, devices and tunnels",linux
+jobs,List active jobs •,linux
+join,Join lines on a common field,linux
+kill,Kill a process by specifying its PID,linux
+killall,Kill processes by name,linux
+klist,List cached Kerberos tickets,linux
+less,Display output one screen at a time,linux
+let,Perform arithmetic on shell variables •,linux
+link,Create a link to a file,linux
+ln,Create a symbolic link to a file,linux
+local,Create a function variable •,linux
+locate,Find files,linux
+logname,Print current login name,linux
+logout,Exit a login shell •,linux
+look,Display lines beginning with a given string,linux
+lpc,Line printer control program,linux
+lpr,Print files,linux
+lprm,Remove jobs from the print queue,linux
+lsattr,List file attributes on a Linux second extended file system,linux
+lsblk,List block devices,linux
+ls,List information about file(s),linux
+lsof,List open files,linux
+lspci,List all PCI devices,linux
+man,Help manual,linux
+mapfile,Read lines from standard input into an indexed array variable •,linux
+mkdir,Create new folder(s),linux
+mkfifo,Make FIFOs (named pipes),linux
+mkfile,Make a file,linux
+mknod,Make block or character special files,linux
+mktemp,Make a temporary file,linux
+more,Display output one screen at a time,linux
+most,Browse or page through a text file,linux
+mount,Mount a file system,linux
+mtools,Manipulate MS-DOS files,linux
+mtr,Network diagnostics (traceroute/ping),linux
+mv,Move or rename files or directories,linux
+mmv,Mass Move and rename (files),linux
+nc,"Netcat, read and write data across networks",linux
+netstat,Networking connections/stats,linux
+nft,nftables for packet filtering and classification,linux
+nice,Set the priority of a command or job,linux
+nl,Number lines and write files,linux
+nohup,Run a command immune to hangups,linux
+notify-send,Send desktop notifications,linux
+nslookup,Query Internet name servers interactively,linux
+open,Open a file in its default application,linux
+op,Operator access,linux
+passwd,Modify a user password,linux
+paste,Merge lines of files,linux
+Perf,Performance analysis tools for Linux,linux
+ping,Test a network connection,linux
+pgrep,List processes by name,linux
+pkill,Kill processes by name,linux
+popd,Restore the previous value of the current directory,linux
+pr,Prepare files for printing,linux
+printenv,Print environment variables,linux
+printf,Format and print data •,linux
+ps,Process status,linux
+pushd,Save and then change the current directory,linux
+pv,Monitor the progress of data through a pipe,linux
+pwd,Print Working Directory,linux
+quota,Display disk usage and limits,linux
+quotacheck,Scan a file system for disk usage,linux
+ram,ram disk device,linux
+rar,Archive files with compression,linux
+rcp,Copy files between two machines,linux
+read,Read a line from standard input •,linux
+readarray,Read from stdin into an array variable •,linux
+readonly,Mark variables/functions as readonly,linux
+rename,Rename files,linux
+return,Exit a shell function,linux
+rev,Reverse lines of a file,linux
+rm,Remove files,linux
+rmdir,Remove folder(s),linux
+rsync,Remote file copy (Synchronize file trees),linux
+screen,"Multiplex terminal, run remote shells via ssh",linux
+scp,Secure copy (remote file copy),linux
+sdiff,Merge two files interactively,linux
+sed,Stream Editor,linux
+select,Accept user choices via keyboard input,linux
+seq,Print numeric sequences,linux
+set,Manipulate shell variables and functions,linux
+setfacl,Set file access control lists.,linux
+sha256sum,Compute and check SHA256 (256-bit) checksums,linux
+shift,Shift positional parameters,linux
+shopt,Shell Options,linux
+shuf,Generate random permutations,linux
+shutdown,Shutdown or restart linux,linux
+sleep,Delay for a specified time,linux
+slocate,Find files,linux
+sort,Sort text files,linux
+source,Run commands from a file '.'  •,linux
+split,Split a file into fixed-size pieces,linux
+ss,Socket Statistics,linux
+ssh,Secure Shell client (remote login program),linux
+stat,Display file or file system status,linux
+strace,Trace system calls and signals,linux
+su,Substitute user identity,linux
+sudo,Execute a command as another user,linux
+sum,Print a checksum for a file,linux
+suspend,Suspend execution of this shell •,linux
+sync,Synchronize data on disk with memory,linux
+tabs,Set tabs on a terminal,linux
+tail,Output the last part of a file,linux
+tar,"Store, list or extract files in an archive",linux
+tee,Redirect output to multiple files,linux
+test,Evaluate a conditional expression,linux
+time,Measure Program running time,linux
+timeout,Run a command with a time limit,linux
+times,User and system times,linux
+tmux,Terminal multiplexer,linux
+touch,Change file timestamps,linux
+top,List processes running on the system,linux
+tput,"Set terminal-dependent capabilities, color, position",linux
+traceroute,Trace Route to Host,linux
+trap,Execute a command when the shell receives a signal •,linux
+tr,"Translate, squeeze, and/or delete characters",linux
+true,"Do nothing, successfully",linux
+tsort,Topological sort,linux
+tty,Print filename of terminal on stdin,linux
+type,Describe a command •,linux
+ulimit,Limit user resources •,linux
+umask,Users file creation mask,linux
+unalias,Remove an alias •,linux
+uname,Print system information,linux
+unexpand,Convert spaces to tabs,linux
+uniq,Uniquify files,linux
+units,Convert units from one scale to another,linux
+unix2dos,UNIX to Windows or MAC text file format converter,linux
+unrar,Extract files from a rar archive,linux
+unset,Remove variable or function names,linux
+unshar,Unpack shell archive scripts,linux
+until,Execute commands (until error),linux
+useradd,Create new user account,linux
+userdel,Delete a user account,linux
+usermod,Modify user account,linux
+users,List users currently logged in,linux
+uuencode,Encode a binary file,linux
+uudecode,Decode a file created by uuencode,linux
+vi,Text Editor,linux
+vmstat,Report virtual memory statistics,linux
+w,Show who is logged on and what they are doing,linux
+wait,Wait for a process to complete •,linux
+watch,Execute/display a program periodically,linux
+wc,"Print byte, word, and line counts",linux
+whereis,"Search the user's $path, man pages and source files for a program",linux
+which,Search the user's $path for a program file,linux
+while,Execute commands,linux
+who,Print all usernames currently logged in,linux
+whoami,Print the current user id and name ('id -un'),linux
+write,Send a message to another user,linux
+xargs,"Execute utility, passing constructed argument list(s)",linux
+xdg-open,Open a file or URL in the user's preferred application.,linux
+xxd,Make a hexdump or do the reverse,linux
+xz,Compress or decompress .xz and .lzma files,linux
+yes,Print a string until interrupted,linux
+zip,Package and compress (archive) files,linux
+.,Run a command script in the current shell,linux
+!!,Run the last command again,linux
+###,Comment / Remark,linux
+afconvert,Audio File Convert,macos
+afinfo,Audio File Info,macos
+afplay,Audio File Play,macos
+airport,Manage Apple AirPort,macos
+alias,Create an alias •,macos
+apropos,Search the whatis database for strings,macos
+asr,Apple Software Restore,macos
+awk,Find and Replace text within file(s),macos
+basename,Convert a full pathname to just a filename,macos
+bash,Bourne-Again SHell,macos
+bc,Arbitrary precision calculator language,macos
+bg,Send to background •,macos
+bind,Set or display readline key and function bindings •,macos
+bless,Set volume bootability and startup disk options,macos
+break,"Exit from a For, While, Until or Select loop •",macos
+brew,Package manager,macos
+builtin,Execute a shell builtin •,macos
+bzip2,Compress or decompress files,macos
+caffeinate,Prevent the system from sleeping,macos
+cal,Display a calendar,macos
+calendar,Reminder Service,macos
+caller,Return the context of a subroutine call •,macos
+cancel,Cancel print jobs,macos
+case,Conditionally perform a command •,macos
+cat,Concatenate and print (display) the content of files,macos
+cd,Change Directory •,macos
+chflags,Change a file or folder's flags,macos
+chgrp,Change group ownership,macos
+chmod,Change access permissions,macos
+chown,Change file owner and group,macos
+chroot,Run a command with a different root directory,macos
+chsh,"Add or change user database information, change default shell",macos
+cksum,Print CRC checksum and byte counts,macos
+cmp,Compare two files,macos
+codesign,Create and manipulate code signatures,macos
+comm,Compare two sorted files line by line,macos
+command,Run a command (not a function) •,macos
+complete,Edit a command completion [word/pattern/list] •,macos
+continue,Resume the next iteration of a loop •,macos
+cp,Copy one or more files to another location,macos
+cpio,Copy files to and from archives,macos
+createhomedir,Create and populate home directories on the local computer,macos
+cron,Daemon to execute scheduled commands,macos
+crontab,Schedule a command to run at a later date/time,macos
+csplit,Split a file into context-determined pieces,macos
+csrutil,Configure System Integrity Protection (SIP),macos
+cupsfilter,Convert a file to another format using cups filters,macos
+curl,Transfer data  from or to a server,macos
+cut,Divide a file into several parts,macos
+date,Display or change the date & time,macos
+dc,Desk Calculator,macos
+dd,"Data Duplicator - convert and copy a file, clone disks",macos
+declare,Declare variable & set attributes •,macos
+defaults,"Set preferences, show hidden files",macos
+df,Display free disk space,macos
+diff,Display the differences between two files,macos
+diff3,Show differences among three files,macos
+dig,DNS lookup,macos
+dirname,Convert a full pathname to just a path,macos
+dirs,Display list of remembered directories •,macos
+diskutil,"Disk utilities - Format, Verify, Repair",macos
+disown,Unbind a job from the current login session •,macos
+ditto,Copy files and folders,macos
+dot_clean,Remove dot-underscore files,macos
+drutil,Interact with CD/DVD burners,macos
+dscacheutil,Query or flush the Directory Service/DNS cache,macos
+dseditgroup,"Edit, create, manipulate, or delete groups",macos
+dsenableroot,Enable root access,macos
+dscl,Directory Service command line utility,macos
+du,Estimate file space usage,macos
+echo,Display text on screen •,macos
+enable,Enable and disable builtin shell commands •,macos
+env,List or Set environment variables,macos
+eval,Evaluate several commands/arguments •,macos
+exec,Execute a command •,macos
+exit,Exit the shell •,macos
+execsnoop,Snoop new process execution,macos
+expand,Convert tabs to spaces,macos
+expect,"Programmed dialogue with interactive programs
+Also see AppleScript",macos
+export,Set an environment variable •,macos
+expr,Evaluate expressions,macos
+false,"Do nothing, unsuccessfully",macos
+fc,Fix command (history),macos
+fdisk,Partition table manipulator for Darwin UFS/HFS/DOS,macos
+fg,Send job to foreground •,macos
+file,Determine file type,macos
+find,Search for files that meet a desired criteria,macos
+fmt,Reformat paragraph text,macos
+fold,Wrap text to fit a specified width,macos
+for,Loop command •,macos
+fsck,Filesystem consistency check and repair,macos
+fs_usage,Filesystem usage (process/pathname),macos
+ftp,Internet file transfer program,macos
+function,Define Function Macros,macos
+fuser,List processes that have one or more files open,macos
+GetFileInfo,Get attributes of HFS+ files,macos
+getopt,Parse positional parameters,macos
+getopts,Parse positional parameters •,macos
+goto,Jump to label and continue execution,macos
+grep,Search file(s) for lines that match a given pattern,macos
+groups,Print group names a user is in,macos
+gzip,Compress or decompress files,macos
+halt,Stop and restart the operating system,macos
+hash,Refresh the cached/remembered location of commands •,macos
+head,Display the first lines of a file,macos
+hdiutil,Manipulate iso disk images,macos
+history,Command History •,macos
+hostname,Print or set system name,macos
+iconv,Convert the character set of a file,macos
+id,Print user and group names/id's,macos
+if,Conditionally perform a command •,macos
+ifconfig,Configure network interface parameters,macos
+iostat,Report CPU and i/o statistics,macos
+ipconfig,View and control IP configuration state,macos
+info,Help info,macos
+install,Copy files and set attributes,macos
+installer,System software and .pkg package installer tool,macos
+iosnoop,Snoop I/O events as they occur,macos
+jobs,List active jobs •,macos
+join,Join lines on a common field,macos
+kextfind,List kernel extensions,macos
+kextstat,Display status of loaded kernel extensions (kexts),macos
+kextunload,Terminate driver instances and unload kernel extensions.,macos
+kickstart,Configure Apple Remote Desktop,macos
+kill,Kill a process by specifying its PID,macos
+killall,Kill processes by name,macos
+klist,List cached Kerberos tickets,macos
+l,List files in long format (ls -l),macos
+last,Indicate last logins of users and ttys,macos
+launchctl,Load or unload daemons/agents,macos
+ll,"List files in long format, showing invisible files (ls -la)",macos
+leave,Remind you when you have to leave,macos
+less,Display output one screen at a time,macos
+let,Evaluate expression •,macos
+lipo,Convert a universal binary,macos
+ln,"Make links between files (hard links, symbolic links)",macos
+local,Set a local (function) variable •,macos
+locate,Find files,macos
+logname,Print current login name,macos
+login,log into the computer,macos
+logout,Exit a login shell (bye) •,macos
+look,Display lines beginning with a given string,macos
+lp,Print files,macos
+lpr,Print files,macos
+lprm,Remove jobs from the print queue,macos
+lpstat,Printer status information,macos
+ls,List information about file(s),macos
+lsregister,Reset the Launch Services database,macos
+lsbom,List a bill of materials file,macos
+lsof,List open files,macos
+md5,Calculate a checksum for a file,macos
+mdfind,Spotlight search,macos
+mdimport,Import file hierarchies into the Spotlight datastore.,macos
+mdls,List the metadata attributes for a specified file,macos
+mdutil,Manage Spotlight metadata store,macos
+mkdir,Create new folder(s),macos
+mkfifo,Make FIFOs (named pipes),macos
+mkfile,Make a file,macos
+mktemp,Make a temporary file,macos
+more,Display output one screen at a time,macos
+mount,Mount a file system,macos
+mv,Move or rename files or directories,macos
+nano,Simple text editor,macos
+nc/netcat,Read and write data across networks,macos
+net,Manage network resources,macos
+networkQuality,Network quality testing tool,macos
+networksetup,Network and System Preferences,macos
+nice,Set the priority of a command,macos
+nl,Number lines and write files,macos
+nohup,Run a command immune to hangups,macos
+ntfs.util,NTFS file system utility,macos
+nvram,Manipulate  firmware variables,macos
+onintr,Control the action of a shell interrupt,macos
+open,Open a file/folder/URL/Application,macos
+opensnoop,Snoop file opens as they occur,macos
+openssl,OpenSSL command line,macos
+osacompile,Compile Applescript,macos
+osascript,Execute AppleScript,macos
+passwd,Modify a user password,macos
+paste,Merge lines of files,macos
+pbcopy,Copy data to the clipboard,macos
+pbpaste,Paste data from the Clipboard,macos
+pbs,General helper tool,macos
+pgrep,List processes by a full or partial name,macos
+ping,Test a network connection,macos
+pkill,Kill processes by a full or partial name,macos
+pkgbuild,Build a macOS Installer component package,macos
+pkgutil,Query and manipulate installed packages,macos
+pmset,Power Management settings,macos
+popd,Restore the previous value of the current directory •,macos
+pr,Convert text files for printing,macos
+printenv,List environment variables,macos
+printf,Format and print data •,macos
+profiles,Profiles Tool,macos
+ps,Process status,macos
+pushd,Save and then change the current directory,macos
+pwd,Print Working Directory •,macos
+qlmanage,Quick Look Server debug and management tool,macos
+quota,Display disk usage and limits,macos
+rcp,Copy files between machines,macos
+read,Read one line from standard input •,macos
+readonly,Mark a variable or function as read-only •,macos
+ReportCrash,Enable/Disable crash reporting,macos
+return,Exit a function •,macos
+rev,Reverse lines of a file,macos
+rm,Remove files,macos
+rmdir,Remove folder(s),macos
+rsync,Remote file copy - Sync file tree,macos
+say,Convert text to audible speech,macos
+screen,"Multiplex terminal, run remote shells via ssh",macos
+screencapture,Capture screen image to file or disk,macos
+scselect,Switch between network locations,macos
+scutil,Manage system configuration parameters,macos
+sdiff,Merge two files interactively,macos
+security,"Administer Keychains, keys, certificates and the Security framework",macos
+sed,Stream Editor,macos
+select,Generate a list of items •,macos
+seq,Print numeric sequences,macos
+serverinfo,Server information,macos
+set,Set a shell variable = value •,macos
+setfile,Set attributes of HFS+ files,macos
+sharing,"Create share points for afp, ftp and smb services",macos
+shasum,Print or Check SHA Checksums,macos
+shift,Shift positional parameters •,macos
+shopt,Set shell options •,macos
+shortcuts,Manage macOS shortcuts,macos
+shutdown,Shutdown or restart macOS,macos
+sips,Scriptable image processing system,macos
+sleep,Delay for a specified time,macos
+softwareupdate,System software update tool,macos
+sort,Sort text files,macos
+source,Execute commands from a file •,macos
+split,Split a file into fixed-size pieces,macos
+sqlite3,SQL database (download history),macos
+srm,Securely remove files or directories,macos
+stat,Display the status of a file,macos
+stop,Stop a job or process,macos
+su,Substitute user identity,macos
+sudo,Execute a command as another user,macos
+sum,Print a checksum for a file,macos
+suspend,Suspend execution of this shell •,macos
+sw_vers,Print macOS operating system version,macos
+sysctl,Get or set kernel state,macos
+system_profiler,Report system configuration,macos
+systemsetup,Computer and display system settings,macos
+tabs,Set terminal tabs,macos
+tab2space,Expand tabs and ensure consistent cr/lf line endings,macos
+tail,Output the last part of files,macos
+tar,Tape ARchiver,macos
+taskpolicy,Execute a program with an altered I/O or scheduling policy,macos
+tccutil,Manage the privacy database,macos
+tcpdump,Dump traffic on a network,macos
+tee,Redirect output to multiple files,macos
+test,Condition evaluation •,macos
+textutil,"Manipulate text files in various formats (Doc,html,rtf)",macos
+time,Measure Program Resource Use,macos
+times,Print shell & shell process times •,macos
+tmutil,Time Machine utility,macos
+top,Display process information,macos
+touch,Change file timestamps,macos
+tput,"Set terminal-dependent capabilities, color, position",macos
+tr,"Translate, squeeze, and/or delete characters",macos
+trap,Execute a command when the shell receives a signal •,macos
+traceroute,Trace Route to Host,macos
+traceroute6,Trace IPv6 Route to Host,macos
+trimforce,Enable TRIM commands on third-party drives,macos
+true,"Do nothing, successfully",macos
+tty,Print filename of terminal on stdin,macos
+type,Describe a command •,macos
+ulimit,limit the use of system-wide resources •,macos
+umask,Users file creation mask,macos
+umount,Unmount a device,macos
+unalias,Remove an alias •,macos
+uname,Print the Darwin OS Kernel version / release / machine name,macos
+unexpand,Convert spaces to tabs,macos
+uniq,Uniquify files,macos
+units,Convert units from one scale to another,macos
+unset,Remove variable or function names •,macos
+until,Loop command •,macos
+uptime,Show how long system has been running,macos
+users,Print login names of users currently logged in,macos
+until,Execute commands (until error),macos
+uuencode,Encode a binary file,macos
+uudecode,Decode a file created by uuencode,macos
+uuidgen,Generate a Unique ID (UUID/GUID),macos
+vi,Text Editor,macos
+w,Show who is logged on and what they are doing,macos
+wait,Wait for a process to complete •,macos
+wall,Write a message to users,macos
+wc,"Print byte, word, and line counts",macos
+whatis,Search the whatis database for complete words,macos
+whereis,Locate a program,macos
+which,Locate a program file in the user's path,macos
+while,Loop command •,macos
+who,Print all usernames currently logged on,macos
+whoami,Print the current user id and name ('id -un'),macos
+write,Send a message to another user,macos
+xargs,Execute utility - passing arguments,macos
+xattr,Display and manipulate extended attributes,macos
+xcode-select,Install the command line developer tools,macos
+xxd,Make a hexdump or do the reverse,macos
+yes,Print a string until interrupted,macos
+zip,Package and compress (archive) files.,macos
+!!,Run the last command again,macos
+Abs(number),Absolute (positive) value of number.,vbscript
+.AppActivate,Activate running command.,vbscript
+.Application,BrowseForFolder/Open.,vbscript
+"Array(el1,el2,el3)",Add values to an Array variable.,vbscript
+Arguments,Command line arguments.,vbscript
+Asc(String),Return ASCII code for string.,vbscript
+AscB(String),Return the byte code for a character.,vbscript
+AscW(String),Return Unicode code for string.,vbscript
+Beep,see StdOut.Write,vbscript
+.BrowseForFolder,Prompt the user to select a folder.,vbscript
+CBool(expression),Convert expression to Boolean (True/False) •,vbscript
+CByte(expression),Convert expression to Byte (0-255) •,vbscript
+CCur(expression),Convert expression to Currency (numeric) •,vbscript
+CDate(expression),Convert expression to Date •,vbscript
+CDbl(expression),Convert expression to Double (up to 1.79x10308) •,vbscript
+Chr(ChrCode),Return the string character for ChrCode (ASCII code),vbscript
+ChrB(ChrCode),Return the string character for ChrCode (Byte code),vbscript
+ChrW(ChrCode),Return the string character for ChrCode (Unicode/DBCS),vbscript
+CInt(expression),Convert expression to Integer •,vbscript
+CLng(expression),Convert expression to long •,vbscript
+CSng(expression),Convert expression to single •,vbscript
+CStr(expression),Convert expression to a string •,vbscript
+.CreateObject,Create an automation object / run an external command.,vbscript
+.CreateShortcut,Create Shortcut.,vbscript
+cscript,Run a VBScript .vbs file.,vbscript
+.CurrentDirectory,Retrieve or change the current directory.,vbscript
+Date(),The current system date.,vbscript
+DateAdd,Add a time interval to a Date.,vbscript
+DateDiff,Return the time interval between two dates.,vbscript
+DatePart,Return part of a given date.,vbscript
+DateSerial,"Return a Date from a numeric Year, Month and Day.",vbscript
+DateValue,Return a Date from a string expression.,vbscript
+Day(date),Return the day component of date (1-31),vbscript
+Dim,Declare a new variable or array variable.,vbscript
+Do..Loop,Repeat a block of statements.,vbscript
+Drives,Drive Map .MapNetworkDrive - .Enum - .Remove,vbscript
+.Echo,"Echo text to screen, also StdOut.Write /.Popup",vbscript
+Environment Variables,Expand - .Delete/Remove.,vbscript
+Escape(String),Return only ASCII characters from a Unicode string.,vbscript
+Eval(expr),Evaluate an expression.,vbscript
+.Exec,Run a command.,vbscript
+Execute,Execute one or more  statements.,vbscript
+Exp(n),Return e (base of natural logs) raised to a power n.,vbscript
+Exit,Exit a block of code immediately.,vbscript
+FileSystemObject,"Work with Drives, Folders and Files.",vbscript
+Filter,Produce an array by filtering an existing array.,vbscript
+Fix(number),Return the integer portion of a number.,vbscript
+For...Next,Repeat a block of statements a given number of times.,vbscript
+For Each...,Loop through the items in a collection or array.,vbscript
+FormatCurrency,Format a number with a currency symbol.,vbscript
+FormatNumber,Format a number.,vbscript
+FormatPercent,Format a number with a % symbol.,vbscript
+FormatDateTime,Format a Date/Time value.,vbscript
+Function,Define a function procedure.,vbscript
+GetLocale(),Return the Regional LocaleID.,vbscript
+.GetObject,Get an Automation object.,vbscript
+Hex(number),Return the hex value of number.,vbscript
+Hour(time),h     Return the hour component of time.,vbscript
+If..Then,Conditionally execute a block of statements.,vbscript
+InputBox,Prompt for user input.,vbscript
+InStr,Find one string within another.,vbscript
+InStrRev,"Find one string within another, starting from the end.",vbscript
+Int(number),Return the integer portion of a number.,vbscript
+IsArray(varname),Is varname an array?,vbscript
+IsDate(expression),Is expression a DateTime?,vbscript
+IsEmpty(expression),Is expression initialised?,vbscript
+IsNull(expression),Is expression NULL?,vbscript
+IsNumeric(expression),Is expression a Numeric?,vbscript
+IsObject(expression),Is expression an object?,vbscript
+Join,Combine the contents of an array into a single variable.,vbscript
+LBound,Return the smallest subscript for an array.,vbscript
+LCase(String),Return String in lower case.,vbscript
+"Left(String,len)",Return the leftmost len characters of string.,vbscript
+Len(String),Return length of string in characters.,vbscript
+Log(number),Return natural log of number.,vbscript
+.LogEvent,Log an item in the Event log.,vbscript
+LTrim(String),Remove any leading spaces from a string expression.,vbscript
+.MapNetworkDrive,Drive Map.,vbscript
+Mid,Return a mid-section from a string.,vbscript
+Minute(time),Return the minute component of time.,vbscript
+Month(date),Return the month component of date.,vbscript
+MonthName,Convert a month number to a descriptive Month.,vbscript
+MsgBox,Display a dialogue box message.,vbscript
+.Network,Access network resources.,vbscript
+Now,Return the current Date and Time.,vbscript
+On Error,Error handling.,vbscript
+Option Explicit,Force all variables to be defined,vbscript
+.AddPrinterConn.AddWindowsPrConn,Add Printer connection.,vbscript
+.EnumPrinterConnections,List Printer connections.,vbscript
+.SetDefaultPrinter,Set default printer.,vbscript
+.RemovePrinterConnection,Remove printer connection.,vbscript
+Private VarName,Declare a local variable/array variable.,vbscript
+Public VarName,Declare a public variable/array variable.,vbscript
+.Quit,Quit.,vbscript
+.ReadLine,Accept user text input.,vbscript
+ReDim,Resize a dynamic array.,vbscript
+.RegDelete,"Registry, delete.",vbscript
+.RegRead,"Registry, read.",vbscript
+.RegWrite,"Registry, write.",vbscript
+REM,Add a Comment.,vbscript
+Replace,Find and replace text.,vbscript
+"RGB(Red,Green,Blue)",Return a system color code.,vbscript
+"Right(String,len)",Return the rightmost len characters of string.,vbscript
+Rnd,Return a random number.,vbscript
+Round,Round a number to n decimal places.,vbscript
+RTrim(String),Remove any trailing spaces from a string expression.,vbscript
+.Run,Run a command.,vbscript
+Second(time),Return the second component of time.,vbscript
+Select...Case,Conditionally execute a block of statements.,vbscript
+.SendKeys,Keyboard macros.,vbscript
+Set variable = object,Assign an object reference.,vbscript
+SetLocale(LocaleID),Set the Regional LocaleID,vbscript
+Sgn(number),The sign of a number.,vbscript
+.Shell,Shell.Application objects/methods.,vbscript
+.ShellExecute,Run a script/application in the Windows Shell.,vbscript
+.CreateShortcut,Create a Shortcut.,vbscript
+.Sleep,Pause.,vbscript
+Space,Return a string consisting of spaces.,vbscript
+.SpecialFolders,"Path to Desktop,Start menu, Programs...",vbscript
+Split,Parse a string of delimited values into an array.,vbscript
+Sqr(number),Square root.,vbscript
+StdOut.Read,Obtain User Input from the command prompt.,vbscript
+StdOut.Write,"Echo text to the screen, also beep.",vbscript
+StrComp,Compare two strings.,vbscript
+String,Create a string with a single character repeated.,vbscript
+StrReverse,Reverse a string.,vbscript
+Sub,Declare a sub procedure.,vbscript
+Time(),The current system time.,vbscript
+TimeSerial,"Construct a Time value from Hours, Minutes and seconds",vbscript
+TimeValue,Convert a string to a Time value.,vbscript
+Trim(String),Remove leading and trailing spaces from string,vbscript
+TypeName,Return variable type (variant subtype).,vbscript
+UBound,Return the largest subscript for an array dimension,vbscript
+UCase(String),Uppercase String,vbscript
+UnEscape(Str),Return Unicode characters from an escaped ASCII string,vbscript
+Weekday,Return the day of the week (1-7),vbscript
+WeekdayName,Return the named day of the week,vbscript
+While...Wend,Conditionally repeat a block of statements,vbscript
+With,Assign multiple properties of an object,vbscript
+Year(date),Return the year component of date (1-12),vbscript
+' Remark,Add a Comment,vbscript

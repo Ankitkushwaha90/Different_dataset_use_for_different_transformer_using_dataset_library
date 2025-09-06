@@ -1,0 +1,212 @@
+{"prompt": "Command to query session display all sessions (ts/remote desktop)", "completion": "QWinsta"}
+{"prompt": "Command to disconnect a remote desktop session", "completion": "TSDISCON"}
+{"prompt": "Command to upgrade device edition/product key", "completion": "CHANGEPK"}
+{"prompt": "Command to display resultant set of policy information", "completion": "GPRESULT"}
+{"prompt": "Command to change registry permissions", "completion": "REGINI"}
+{"prompt": "Command to search for a text string in a file", "completion": "FIND"}
+{"prompt": "Command to monitor an application for cpu spikes", "completion": "ProcDump"}
+{"prompt": "Command to microsoft windows installer", "completion": "MSIEXEC"}
+{"prompt": "Command to record comments (remarks) in a batch file\u00a0\u2022", "completion": "REM"}
+{"prompt": "Command to windows remote management", "completion": "WINRM"}
+{"prompt": "Command to event log records", "completion": "PsLogList"}
+{"prompt": "Command to delete one or more files\u00a0\u2022", "completion": "ERASE"}
+{"prompt": "Command to verify that files have been saved\u00a0\u2022", "completion": "VERIFY"}
+{"prompt": "Command to edit command line, recall commands, and create macros", "completion": "DOSKEY"}
+{"prompt": "Command to file transfer protocol", "completion": "FTP"}
+{"prompt": "Command to windows update", "completion": "WUAUCLT"}
+{"prompt": "Command to client-side caching (offline files)", "completion": "CSCcmd"}
+{"prompt": "Command to configure power settings", "completion": "POWERCFG"}
+{"prompt": "Command to recover a damaged file from a defective disk", "completion": "RECOVER"}
+{"prompt": "Command to visual basic compiler", "completion": "VBC"}
+{"prompt": "Command to schedule a command to run at a specific time", "completion": "SCHTASKS"}
+{"prompt": "Command to configure network interfaces, firewall & remote access", "completion": "NETSH"}
+{"prompt": "Command to create a new directory\u00a0\u2022", "completion": "MD"}
+{"prompt": "Command to bitlocker drive encryption", "completion": "Manage-BDE"}
+{"prompt": "Command to display, set, or remove session environment variables\u00a0\u2022", "completion": "SET"}
+{"prompt": "Command to test a network connection", "completion": "PING"}
+{"prompt": "Command to associate a path with a drive letter", "completion": "SUBST"}
+{"prompt": "Command to monitor internal packet propagation and packet drop reports", "completion": "PKTMON"}
+{"prompt": "Command to online help", "completion": "HELP"}
+{"prompt": "Command to import or export registry settings", "completion": "REGEDIT"}
+{"prompt": "Command to list running applications and services", "completion": "TASKLIST"}
+{"prompt": "Command to print a text file", "completion": "PRINT"}
+{"prompt": "Command to add a message to the windows event log", "completion": "EVENTCREATE"}
+{"prompt": "Command to active directory bulk modify", "completion": "ADmodcmd"}
+{"prompt": "Command to search for strings in files", "completion": "FINDSTR"}
+{"prompt": "Command to windows performance recorder", "completion": "WPR"}
+{"prompt": "Command to set  security  for  an object (file, directory, reg key etc).", "completion": "SetObjectSecurity"}
+{"prompt": "Command to query or display open files", "completion": "OPENFILES"}
+{"prompt": "Command to display version information\u00a0\u2022", "completion": "VER"}
+{"prompt": "Command to execute a program under a different user account", "completion": "RUNAS"}
+{"prompt": "Command to set environment variables", "completion": "SETX"}
+{"prompt": "Command to compare two files", "completion": "FC"}
+{"prompt": "Command to show permissions for a user", "completion": "PERMS"}
+{"prompt": "Command to manage stored usernames/passwords", "completion": "CMDKEY"}
+{"prompt": "Command to system file checker", "completion": "SFC"}
+{"prompt": "Command to register or unregister a dll", "completion": "REGSVR32"}
+{"prompt": "Command to system information", "completion": "MSINFO32"}
+{"prompt": "Command to take ownership of a file", "completion": "TAKEOWN"}
+{"prompt": "Command to change file attributes", "completion": "ATTRIB"}
+{"prompt": "Command to display installed device drivers", "completion": "DriverQuery"}
+{"prompt": "Command to plug and play utility", "completion": "PNPUTIL"}
+{"prompt": "Command to change account password", "completion": "PsPasswd"}
+{"prompt": "Command to display or set a search path for executable files\u00a0\u2022", "completion": "PATH"}
+{"prompt": "Command to display  directory sizes/usage", "completion": "DU"}
+{"prompt": "Command to lookup the registration record for a domain", "completion": "WHOIS"}
+{"prompt": "Command to file and volume utilities", "completion": "FSUTIL"}
+{"prompt": "Command to graphical display of folder structure", "completion": "TREE"}
+{"prompt": "Command to list detailed information about processes", "completion": "PsList"}
+{"prompt": "Command to compare the contents of two files or sets of files", "completion": "COMP"}
+{"prompt": "Command to change file permissions", "completion": "CACLS"}
+{"prompt": "Command to convert a fat drive to ntfs", "completion": "CONVERT"}
+{"prompt": "Command to start a new cmd shell", "completion": "CMD"}
+{"prompt": "Command to defragment hard drive", "completion": "DEFRAG"}
+{"prompt": "Command to windows backup folders to tape", "completion": "NTBACKUP"}
+{"prompt": "Command to send email from the command line", "completion": "MAPISEND"}
+{"prompt": "Command to display networking statistics (tcp/ip)", "completion": "NETSTAT"}
+{"prompt": "Command to check the ntfs file system", "completion": "CHKNTFS"}
+{"prompt": "Command to view and control services", "completion": "PsService"}
+{"prompt": "Command to display the host name of the computer", "completion": "HOSTNAME"}
+{"prompt": "Command to rename a file or files\u00a0\u2022", "completion": "REN"}
+{"prompt": "Command to display locale information (reskit)", "completion": "NLSINFO"}
+{"prompt": "Command to show the space used in folders", "completion": "DISKUSE"}
+{"prompt": "Command to create a symbolic link (linkd)\u00a0\u2022", "completion": "MKLINK"}
+{"prompt": "Command to print queue backup/recovery", "completion": "PRINTBRM"}
+{"prompt": "Command to create a self extracting zip file archive", "completion": "IEXPRESS"}
+{"prompt": "Command to windows backup admin", "completion": "WBADMIN"}
+{"prompt": "Command to trace route to a remote host", "completion": "TRACERT"}
+{"prompt": "Command to display or set the date\u00a0\u2022", "completion": "DATE"}
+{"prompt": "Command to shift the position of batch file parameters\u00a0\u2022", "completion": "SHIFT"}
+{"prompt": "Command to openssh remote login client", "completion": "SSH"}
+{"prompt": "Command to copy stdin to the windows clipboard", "completion": "CLIP"}
+{"prompt": "Command to windows terminal", "completion": "WT"}
+{"prompt": "Command to windows package manager (coming may 2021)", "completion": "WINGET"}
+{"prompt": "Command to get the security descriptor (sddl) for an object (file, directory, reg key).", "completion": "AccessChk"}
+{"prompt": "Command to diagnose side-by-side problems", "completion": "SXSTRACE"}
+{"prompt": "Command to list cached kerberos tickets", "completion": "KLIST"}
+{"prompt": "Command to service control", "completion": "SC"}
+{"prompt": "Command to manipulate network routing tables", "completion": "ROUTE"}
+{"prompt": "Command to configure ip", "completion": "IPCONFIG"}
+{"prompt": "Command to copy one or more files to another location\u00a0\u2022", "completion": "COPY"}
+{"prompt": "Command to modify items in active directory (user group computer)", "completion": "DSMod"}
+{"prompt": "Command to delete a directory\u00a0\u2022", "completion": "RD"}
+{"prompt": "Command to save and then change the current directory\u00a0\u2022", "completion": "PUSHD"}
+{"prompt": "Command to get domain, browser and pdc info", "completion": "BROWSTAT"}
+{"prompt": "Command to change file and folder permissions", "completion": "XCACLS"}
+{"prompt": "Command to edit file and folder permissions, ownership and domain", "completion": "SUBINACL"}
+{"prompt": "Command to clear the screen\u00a0\u2022", "completion": "CLS"}
+{"prompt": "Command to shutdown or reboot a computer", "completion": "PsShutdown"}
+{"prompt": "Command to change file extension associations\u00a0\u2022", "completion": "ASSOC"}
+{"prompt": "Command to manage network resources", "completion": "NET"}
+{"prompt": "Command to compress files or folders on an ntfs partition", "completion": "COMPACT"}
+{"prompt": "Command to show files opened remotely", "completion": "PsFile"}
+{"prompt": "Command to run a dll command (add/remove print connections)", "completion": "RUNDLL32"}
+{"prompt": "Command to trace route plus network latency and packet loss", "completion": "PATHPING"}
+{"prompt": "Command to move an active directory object", "completion": "DSMove"}
+{"prompt": "Command to modify network bindings", "completion": "NVSPBIND"}
+{"prompt": "Command to network location test (ad)", "completion": "NLTEST"}
+{"prompt": "Command to clear event logs, enable/disable/query logs", "completion": "WEVTUTIL"}
+{"prompt": "Command to create a windows shortcut (.lnk file)", "completion": "SHORTCUT"}
+{"prompt": "Command to quit the current script/routine and set an errorlevel\u00a0\u2022", "completion": "EXIT"}
+{"prompt": "Command to wait for x seconds", "completion": "SLEEP"}
+{"prompt": "Command to directory service registration", "completion": "DSREGCMD"}
+{"prompt": "Command to delete user profiles", "completion": "DELPROF"}
+{"prompt": "Command to manage ras connections", "completion": "RASPHONE"}
+{"prompt": "Command to change the command prompt\u00a0\u2022", "completion": "PROMPT"}
+{"prompt": "Command to transfer data from or to a server", "completion": "CURL"}
+{"prompt": "Command to domain manager", "completion": "NETDOM"}
+{"prompt": "Command to manage printer ports, change port configuration.", "completion": "PRNPORT"}
+{"prompt": "Command to accept keyboard input to a batch file", "completion": "CHOICE"}
+{"prompt": "Command to run a command under a different user account", "completion": "ShellRunAs"}
+{"prompt": "Command to edit service principal names", "completion": "SetSPN"}
+{"prompt": "Command to loop command: all options files, directory, list\u00a0\u2022", "completion": "FOR"}
+{"prompt": "Command to import or export active directory data", "completion": "CSVDE"}
+{"prompt": "Command to delay processing of a batch file/command", "completion": "TIMEOUT"}
+{"prompt": "Command to display a list of files and folders\u00a0\u2022", "completion": "DIR"}
+{"prompt": "Command to change file and folder permissions", "completion": "iCACLS"}
+{"prompt": "Command to set the window title for a cmd.exe session\u00a0\u2022", "completion": "TITLE"}
+{"prompt": "Command to kill processes by name or process id", "completion": "PsKill"}
+{"prompt": "Command to delete one or more files\u00a0\u2022", "completion": "DEL"}
+{"prompt": "Command to display the status of ports and services", "completion": "PORTQRY"}
+{"prompt": "Command to delete a remote desktop session", "completion": "Reset Session"}
+{"prompt": "Command to address resolution protocol", "completion": "ARP"}
+{"prompt": "Command to log a user off", "completion": "LOGOFF"}
+{"prompt": "Command to specify which display to use and how to use it", "completion": "DisplaySwitch"}
+{"prompt": "Command to active directory domain services management", "completion": "NTDSUtil"}
+{"prompt": "Command to locate and display files in a directory tree", "completion": "WHERE"}
+{"prompt": "Command to software licensing management", "completion": "SLMGR"}
+{"prompt": "Command to manage the  wmi service/wmi repository", "completion": "WINMGMT"}
+{"prompt": "Command to disk administration", "completion": "DISKPART"}
+{"prompt": "Command to who's logged on (locally or via resource sharing)", "completion": "PsLoggedOn"}
+{"prompt": "Command to loop command: against the results of another command\u00a0\u2022", "completion": "FOR /F"}
+{"prompt": "Command to console input", "completion": "CON"}
+{"prompt": "Command to end a running process", "completion": "TASKKILL"}
+{"prompt": "Command to manage boot configuration data", "completion": "BCDEDIT"}
+{"prompt": "Command to query process display processes", "completion": "QPROCESS"}
+{"prompt": "Command to control the visibility of environment variables\u00a0\u2022", "completion": "SETLOCAL"}
+{"prompt": "Command to task list with full path", "completion": "TLIST"}
+{"prompt": "Command to convert a disk partition from  master boot record to a gpt", "completion": "MBR2GPT"}
+{"prompt": "Command to update group policy settings", "completion": "GPUPDATE"}
+{"prompt": "Command to format a disk", "completion": "FORMAT"}
+{"prompt": "Command to time service", "completion": "W32TM"}
+{"prompt": "Command to output the current username and domain", "completion": "WHOAMI"}
+{"prompt": "Command to direct a batch program to jump to a labelled line\u00a0\u2022", "completion": "GOTO"}
+{"prompt": "Command to background intelligent transfer service", "completion": "BITSADMIN"}
+{"prompt": "Command to call one batch program from another \u2022", "completion": "CALL"}
+{"prompt": "Command to view items in active directory (user group computer)", "completion": "DSGet"}
+{"prompt": "Command to display the contents of a text file\u00a0\u2022", "completion": "TYPE"}
+{"prompt": "Command to name server lookup", "completion": "NSLOOKUP"}
+{"prompt": "Command to change terminal server session properties", "completion": "CHANGE"}
+{"prompt": "Command to measure network performance", "completion": "PsPing"}
+{"prompt": "Command to open windows explorer", "completion": "EXPLORER"}
+{"prompt": "Command to connect to a hyper-v virtual machine", "completion": "VMConnect"}
+{"prompt": "Command to edit user account rights", "completion": "NTRIGHTS"}
+{"prompt": "Command to store, list or extract files in an archive", "completion": "TAR"}
+{"prompt": "Command to compare the contents of two files or sets of files", "completion": "WINDIFF"}
+{"prompt": "Command to remove items from active directory", "completion": "DSRM"}
+{"prompt": "Command to manage dns servers", "completion": "DNSCMD"}
+{"prompt": "Command to create .cab files", "completion": "MAKECAB"}
+{"prompt": "Command to volume shadow copy service", "completion": "DISKSHADOW"}
+{"prompt": "Command to communicate with another host using the telnet protocol", "completion": "TELNET"}
+{"prompt": "Command to query user display user sessions (ts/remote desktop)", "completion": "QUSER"}
+{"prompt": "Command to display or set the system time\u00a0\u2022", "completion": "TIME"}
+{"prompt": "Command to robust file and folder copy", "completion": "ROBOCOPY"}
+{"prompt": "Command to request certificate from a certification authority", "completion": "CERTREQ"}
+{"prompt": "Command to shutdown the computer", "completion": "SHUTDOWN"}
+{"prompt": "Command to display a disk label\u00a0\u2022", "completion": "VOL"}
+{"prompt": "Command to list system configuration", "completion": "SYSTEMINFO"}
+{"prompt": "Command to suspend processes", "completion": "PsSuspend"}
+{"prompt": "Command to add items to active directory (user group computer)", "completion": "DSAdd"}
+{"prompt": "Command to monitor and log system activity to the windows event log", "completion": "SYSMON"}
+{"prompt": "Command to display  directory sizes/usage", "completion": "DIRUSE"}
+{"prompt": "Command to display the media access control (mac) address", "completion": "GETMAC"}
+{"prompt": "Command to windows event collector utility", "completion": "WECUTIL"}
+{"prompt": "Command to check disk - check and repair disk problems", "completion": "CHKDSK"}
+{"prompt": "Command to active directory acls", "completion": "DSACLs"}
+{"prompt": "Command to list or edit a file share or print share", "completion": "SHARE"}
+{"prompt": "Command to list information about a system", "completion": "PsInfo"}
+{"prompt": "Command to windows update standalone installer", "completion": "WUSA"}
+{"prompt": "Command to delete a directory\u00a0\u2022", "completion": "RMDIR"}
+{"prompt": "Command to start | run commands", "completion": "RUN"}
+{"prompt": "Command to manage hyper-v network bindings", "completion": "NMBIND"}
+{"prompt": "Command to show the mapping between logical & physical processors", "completion": "Coreinfo"}
+{"prompt": "Command to execute process remotely", "completion": "PsExec"}
+{"prompt": "Command to write performance monitor data to a log file", "completion": "TypePerf"}
+{"prompt": "Command to wmi commands", "completion": "WMIC"}
+{"prompt": "Command to add or list users to/from a csv file", "completion": "ADDUSERS"}
+{"prompt": "Command to deployment image servicing and management", "completion": "DISM"}
+{"prompt": "Command to configure a printer", "completion": "PRNCNFG"}
+{"prompt": "Command to display the current date and time", "completion": "NOW"}
+{"prompt": "Command to pause, resume, cancel, or list print jobs.", "completion": "PRNJOBS"}
+{"prompt": "Command to load perfmon performance counters", "completion": "LODCTR"}
+{"prompt": "Command to replace files that are in use by the os", "completion": "INUSE"}
+{"prompt": "Command to move files from one folder to another\u00a0\u2022", "completion": "MOVE"}
+{"prompt": "Command to file extension file type associations\u00a0\u2022", "completion": "FTYPE"}
+{"prompt": "Command to search for ansi and unicode strings in binary files", "completion": "STRINGS"}
+{"prompt": "Command to terminal server connection/remote desktop protocol(rdp)", "completion": "MSTSC"}
+{"prompt": "Command to comment / remark\u00a0\u2022", "completion": "::"}
+{"prompt": "Command to change directory - move to a specific folder\u00a0\u2022", "completion": "CHDIR"}
+{"prompt": "Command to share a folder or a printer", "completion": "RMTSHARE"}
+{"prompt": "Command to uncompress cab files", "completion": "EXPAND"}
+{"prompt": "Command to log the date and time in a file", "completion": "LOGTIME"}
+{"prompt": "Command to local group policy object utility", "completion": "LGPO"}
